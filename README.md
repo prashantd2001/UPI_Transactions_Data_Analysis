@@ -1,18 +1,20 @@
 # UPI_Transactions_Data_Analysis Project with PowerBI
 
-Project Overview:
+##Project Overview:
 This project provides an analysis of UPI transaction data using Power BI. The dataset includes transaction trends, merchant details, payment methods, and user characteristics, offering insights into transaction patterns across different cities, devices, and purposes. By understanding these patterns, stakeholders can better tailor UPI systems for user needs.
 
 
-Objective:
+##Objective:
 To analyze UPI transaction data to:
 Identify transaction trends and monthly volume
 Understand the distribution of transaction types and purposes
 Analyze device types, payment methods, and demographics of users
 Provide insights for stakeholders to optimize payment processing.
 
+##Data set used:
+- <a href="https://github.com/prashantd2001/UPI_Transactions_Data_Analysis/blob/main/UPI%2BTransactions.xlsx">UPI_Transactions_Dataset</a>
 
-Dataset:
+##Dataset:
 The dataset contains the following fields:
 banknamesent: Bank from which the payment is sent
 banknamereceived: Bank receiving the payment
@@ -26,13 +28,13 @@ purpose: Purpose of the transaction (e.g., bill payment, transfer)
 transaction type: Type of transaction (e.g., P2P, P2M)
 
 
-Data Preparation:
+##Data Preparation:
 Data Cleaning: Handling missing values or inconsistencies in transaction fields (e.g., missing bank names, device type).
 Data Transformation: Parsing date-time fields, standardizing bank names, and categorizing purposes.
 Data Integration: Integrating data sources as needed for more comprehensive analysis.
 
 
-Analysis and Visualizations:
+##Analysis and Visualizations:
 Using Power BI, the following reports and visualizations are created:
 Monthly Transaction Trends: Line graph showing monthly transaction volume, which helps identify peak transaction months.
 Transaction Breakdown by Type and Purpose: Bar charts illustrating the distribution of transaction types (P2P, P2M) and purposes.
@@ -43,7 +45,7 @@ User Demographics: Charts to analyze transactions by user gender, city, and allg
 Payment Method Popularity: Bar chart illustrating the most used payment methods.
 
 
-Insights:
+##Insights:
 Peak Transaction Months: Insights into the months with highest transaction volumes.
 Preferred Payment Methods: Identify popular payment methods, useful for optimizing user interfaces.
 User Demographics: Breakdown of transactions by gender, city, and group.
