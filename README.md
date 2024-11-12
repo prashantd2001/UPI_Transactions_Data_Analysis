@@ -46,6 +46,7 @@ Payment Method Popularity: Bar chart illustrating the most used payment methods.
 
 ## DASHBOARD
 - <a href="https://github.com/prashantd2001/UPI_Transactions_Data_Analysis/blob/main/Trend%20analysis%20UPI.png">DASHBOARD</a>
+![Trend analysis UPI](https://github.com/user-attachments/assets/2fa4f751-50d1-4458-a9fc-949216b4c991)
 
 
 ## Insights:
