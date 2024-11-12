@@ -58,14 +58,14 @@ Payment Method Popularity: Bar chart illustrating the most used payment methods.
 
 
 ## Insights:
-. Peak Transaction Months: Insights into the months with highest transaction volumes.
-. Preferred Payment Methods: Identify popular payment methods, useful for optimizing user interfaces.
-. User Demographics: Breakdown of transactions by gender, city, and group.
-. Device Type Usage: Helps determine device preferences, which may guide app or service optimization.
+1. Peak Transaction Months: Insights into the months with highest transaction volumes.
+2. Preferred Payment Methods: Identify popular payment methods, useful for optimizing user interfaces.
+3. User Demographics: Breakdown of transactions by gender, city, and group.
+4. Device Type Usage: Helps determine device preferences, which may guide app or service optimization.
 
 ## Technologies Used:
-. Power BI: For data visualization and report building.
-. Data Transformation: Power Query for data cleaning and transformation.
+1. Power BI: For data visualization and report building.
+2. Data Transformation: Power Query for data cleaning and transformation.
 
 
 ## Future Improvements:
