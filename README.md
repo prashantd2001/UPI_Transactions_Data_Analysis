@@ -44,8 +44,16 @@ Merchant Analysis: Visualization of top merchants based on transaction volume an
 User Demographics: Charts to analyze transactions by user gender, city, and allgroups.
 Payment Method Popularity: Bar chart illustrating the most used payment methods.
 
-## DASHBOARD
+## Process
+1. Verify data for any missing valus and anomalies,and sort out the same.
+2. Made sure data is consitent and clean with respect to data type, data format and values used.
+3. Created pivot table.
+4. Merge all pivot tables into one dashboard and apply slicer to make dynamic. 
+
+## DASHBOARD Interaction:
 - <a href="https://github.com/prashantd2001/UPI_Transactions_Data_Analysis/blob/main/Trend%20analysis%20UPI.png">DASHBOARD</a>
+
+## DashBoard
 ![Trend analysis UPI](https://github.com/user-attachments/assets/2fa4f751-50d1-4458-a9fc-949216b4c991)
 
 
@@ -59,7 +67,7 @@ Power BI: For data visualization and report building.
 Data Transformation: Power Query for data cleaning and transformation.
 
 
-## Future Improvements
+## Future Improvements:
 Predictive Analysis: Forecasting transaction trends using machine learning models.
 Real-Time Analysis: Incorporate real-time transaction data streaming.
 Expanded Demographics: Add more demographic fields like age or income to enhance user insights.
