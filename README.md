@@ -25,13 +25,13 @@ allgroups: Group categorization for users or transactions (e.g., age group)
 merchantname: Merchant to whom the payment is made
 payment method: Payment method used (e.g., QR code, UPI ID)
 purpose: Purpose of the transaction (e.g., bill payment, transfer)
-transaction type: Type of transaction (e.g., P2P, P2M)
+transaction type: Type of transaction (e.g., Payment, Transfer)
 
 
 ## Data Preparation:
-Data Cleaning: Handling missing values or inconsistencies in transaction fields (e.g., missing bank names, device type).
-Data Transformation: Parsing date-time fields, standardizing bank names, and categorizing purposes.
-Data Integration: Integrating data sources as needed for more comprehensive analysis.
+1. Data Cleaning: Handling missing values or inconsistencies in transaction fields (e.g., missing bank names, device type).
+2. Data Transformation: Parsing date-time fields, standardizing bank names, and categorizing purposes.
+3. Data Integration: Integrating data sources as needed for more comprehensive analysis.
 
 
 ## Analysis and Visualizations:
@@ -44,6 +44,9 @@ Merchant Analysis: Visualization of top merchants based on transaction volume an
 User Demographics: Charts to analyze transactions by user gender, city, and allgroups.
 Payment Method Popularity: Bar chart illustrating the most used payment methods.
 
+## DASHBOARD
+- <a href="https://github.com/prashantd2001/UPI_Transactions_Data_Analysis/blob/main/Trend%20analysis%20UPI.png">DASHBOARD</a>
+
 
 ## Insights:
 Peak Transaction Months: Insights into the months with highest transaction volumes.
@@ -55,9 +58,10 @@ Power BI: For data visualization and report building.
 Data Transformation: Power Query for data cleaning and transformation.
 
 
-Future Improvements
+## Future Improvements
 Predictive Analysis: Forecasting transaction trends using machine learning models.
 Real-Time Analysis: Incorporate real-time transaction data streaming.
 Expanded Demographics: Add more demographic fields like age or income to enhance user insights.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to contribute to the project.
+
